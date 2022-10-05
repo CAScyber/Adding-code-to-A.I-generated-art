@@ -23,8 +23,10 @@ Adding code to A.I generated art through hex editing on GIF's.
 <img src="https://f004.backblazeb2.com/file/Haks123/Images/Screenshot_2022-10-05_200112.jpg" />
 <br>
 • This is epic stuff. Code can get through pretty much any technology, which is quite interesting.
-• As a grey hat hacker, I might recommend hex analysis for GIF companies, perfect pixel size analysis might even work, or can be used for filtering, then doing further analysis.
-• And wow, that A.I is amazing, huh?
+<br>
+• As a grey hat hacker, I might recommend hex analysis for GIF companies, perfect pixel size analysis might even work, or it can be used for filtering, then doing further analysis.
+<br>
+• And wow, the A.I is amazing, huh?
 <br>
 <br>
 # More A.I generated art.
